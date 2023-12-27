@@ -1,6 +1,6 @@
 # USTx
 A place to store and publicly distribute USTx.<br>
-To find a file, you can search using (ctrl + F) in your browser.<br>
+To find a file, enter the language folder and search using (ctrl + F) in your browser.<br>
 The naming convention is as follows: ArtistName - SongName
 # Warning
 - Each project has its own README.txt. By downloading the USTx, you agree to the README.txt for the project you're downloading for.
