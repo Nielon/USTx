@@ -5,3 +5,4 @@ The naming convention is as follows: ArtistName - SongName
 # Warning
 - Each project has its own README.txt. By downloading the USTx, you agree to the README.txt for the project you're downloading for.
 - USTx may contain phonetic hints and timing adjustments. Please reset them in OpenUTAU if you dislike the changes.
+- USTx may contain incorrect spelling.
