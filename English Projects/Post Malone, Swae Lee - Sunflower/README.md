@@ -2,7 +2,7 @@ You're welcome to use the USTX for whatever you want.<br>
 You can claim the files as yours and whatever I don't really mind.<br>
 You can also distribute it as well.<br>
 Just don't claim the song is yours.<br>
-Song BPM: 90<
+Song BPM: 90
 
 文件夹里的USTX是给你用的。<br>
 里面的文件可以说是你自己做的，我不太管。<br>
