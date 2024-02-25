@@ -1,0 +1,23 @@
+Romanian USTx uses mostly custom japanese phonemes, since I do not have a romanian voicebanks.
+If you're using a Japanese voicebank, please note that some phonemes used will be different, the phonemes are listed below:
+4 - Japanese 't'
+dx - Japanese 'r'
+Please replace the incompatible phonemes with an equivalent that your Japanese voicebank may support in OpenUtau.
+
+You're welcome to use the USTX for whatever you want.
+You can claim the files as yours and whatever I don't really mind.
+You can also distribute it as well.
+Just don't claim the song is yours.
+Song BPM: 130
+
+文件夹里的USTX是给你用的。
+里面的文件可以说是你自己做的，我不太管。
+你也可以把文件分发给人家。
+只说歌不是你做的就行。
+歌BPM: 130
+
+Thank you, 多谢
+Nielon
+(Please use Utaformtix to convert USTx. 请用Utaformatix转换USTx.)
+
+P.S. I spent 50,000 USD on this USTx please take care of it!
