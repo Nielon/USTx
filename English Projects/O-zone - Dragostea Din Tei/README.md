@@ -2,8 +2,8 @@ Romanian USTx uses mostly custom japanese phonemes, since I do not have a romani
 If you're using a Japanese voicebank, please note that some phonemes used will be different, the phonemes are listed below:<br>
 4 - Japanese 't'<br>
 dx - Japanese 'r'<br>
-Please replace the incompatible phonemes with an equivalent that your Japanese voicebank may support in OpenUtau.
-﻿
+Please replace the incompatible phonemes with an equivalent that your Japanese voicebank may support in OpenUtau.<br>
+
 我没有罗马语声库，所以罗马语USTx主要使用自定义日本音节。如果你要使用日语声库，请注意下面列出的部分音节可能不同：<br>
 4 - 日语 't'<br>
 dx - 日语 'r'<br>
