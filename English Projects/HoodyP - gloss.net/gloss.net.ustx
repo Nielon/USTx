@@ -1,4 +1,4 @@
-﻿name: New Project
+name: New Project
 comment: ""
 output_dir: Vocal
 cache_dir: UCache
@@ -301,7 +301,7 @@ tracks:
   renderer_settings: {}
   track_name: Track2
   track_color: Blue
-  mute: true
+  mute: false
   solo: false
   volume: 0
   pan: 0
@@ -16453,7 +16453,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 8400
-    duration: 225
+    duration: 240
     tone: 57
     lyric: oh
     pitch:
@@ -16465,7 +16465,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 8640
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -16477,7 +16477,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 9120
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -16693,7 +16693,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 16080
-    duration: 225
+    duration: 240
     tone: 57
     lyric: oh
     pitch:
@@ -16705,7 +16705,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 16320
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -16717,7 +16717,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 16800
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -16933,7 +16933,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 23760
-    duration: 225
+    duration: 240
     tone: 57
     lyric: oh
     pitch:
@@ -16945,7 +16945,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 24000
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -16957,7 +16957,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 24480
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -17173,7 +17173,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 31440
-    duration: 225
+    duration: 240
     tone: 57
     lyric: oh
     pitch:
@@ -17185,7 +17185,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 31680
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -17197,7 +17197,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 32160
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -17413,7 +17413,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 39120
-    duration: 225
+    duration: 240
     tone: 57
     lyric: oh
     pitch:
@@ -17425,7 +17425,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 39360
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -17437,7 +17437,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 39840
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -17653,7 +17653,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 123600
-    duration: 225
+    duration: 240
     tone: 57
     lyric: oh
     pitch:
@@ -17665,7 +17665,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 123840
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -17677,7 +17677,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 124320
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -17893,7 +17893,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 131280
-    duration: 225
+    duration: 240
     tone: 57
     lyric: oh
     pitch:
@@ -17905,7 +17905,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 131520
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -17917,7 +17917,7 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 132000
-    duration: 465
+    duration: 480
     tone: 57
     lyric: gloss
     pitch:
@@ -20077,11 +20077,11 @@ voice_parts:
     phoneme_overrides: []
   curves: []
 wave_parts:
-- name: ref.flac
+- name: hoodyp_glossnet_inst.wav
   comment: ""
   track_no: 4
-  position: 1856
-  relative_path: ref.flac
-  file_duration_ms: 287973.8958
+  position: 1907
+  relative_path: hoodyp_glossnet_inst.wav
+  file_duration_ms: 286075.6462
   skip_ms: 0
   trim_ms: 0
