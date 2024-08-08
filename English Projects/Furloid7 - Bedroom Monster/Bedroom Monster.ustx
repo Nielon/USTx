@@ -1163,7 +1163,7 @@ voice_parts:
   - position: 16200
     duration: 120
     tone: 45
-    lyric: are[aa]
+    lyric: are
     pitch:
       data:
       - {x: -40, y: 0, shape: io}
@@ -2917,7 +2917,7 @@ voice_parts:
   - position: 66960
     duration: 240
     tone: 57
-    lyric: don't[d ow n]
+    lyric: don't
     pitch:
       data:
       - {x: -40, y: 0, shape: io}
@@ -4550,7 +4550,7 @@ voice_parts:
   - position: 128400
     duration: 240
     tone: 57
-    lyric: don't[d ow n]
+    lyric: don't
     pitch:
       data:
       - {x: -40, y: 0, shape: io}
@@ -14320,7 +14320,7 @@ voice_parts:
   - position: 23280
     duration: 480
     tone: 60
-    lyric: bedrooms[b eh d r uw m s]
+    lyric: bedrooms
     pitch:
       data:
       - {x: -40, y: 0, shape: io}
@@ -14572,7 +14572,7 @@ voice_parts:
   - position: 84720
     duration: 480
     tone: 60
-    lyric: bedrooms[b eh d r uw m s]
+    lyric: bedrooms
     pitch:
       data:
       - {x: -40, y: 0, shape: io}
@@ -15400,7 +15400,7 @@ voice_parts:
   - position: 130800
     duration: 480
     tone: 60
-    lyric: bedrooms[b eh d r uw m s]
+    lyric: bedrooms
     pitch:
       data:
       - {x: -40, y: 0, shape: io}
