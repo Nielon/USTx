@@ -3,7 +3,7 @@ You can claim the files as yours and whatever I don't really mind.<br>
 You can also distribute it as well.<br>
 Just don't claim the song is yours.<br>
 Song BPM: 137<br>
-Note: You need to re-name the files and folders to English so<br><br>
+Note: You need to re-name the files and folders to English so<br>
 UTAU can read the contents inside.<br>
 
 文件夹里的UST，DV，和USTX是给你用的。<br>
@@ -11,7 +11,7 @@ UTAU can read the contents inside.<br>
 你也可以把文件分发给人家。<br>
 只说歌不是你做的就行。<br>
 歌BPM: 137<br>
-注意: 你需要把文件夹（和里面的文件）改成英文才能让UTAU打开。<br>
+注意: 你需要把文件夹（和里面的文件）改成英文才能让UTAU打开。
 
 Thank you, 多谢<br>
 Nielon<br>
